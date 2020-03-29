@@ -6,3 +6,8 @@ This repo includes files related to the WeChat group `Anonymous, Learn, Live', a
 - 37 initial members.
 - admin board: Siying, Yuke.
 - advisors: Yihao, Tao Gao, Haiyang, and Zhen Cao.
+
+03/29/2020
+- 121 members.
+- one more advisor addedr: Max Ma.
+- create learning folders: econ, stats and strategy
